@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anishka Udith</h1>
+<h1 align="center">Hi 👋, I'm Charuka Nimantha</h1>
 <h3 align="center">A dedicated IT undergraduate student from Sri Lanka</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=it21294716&label=Profile%20views&color=0e75b6&style=flat" alt="it21294716" /> </p>
 
-- 📫 How to reach me **anishkaudith2@gmail.com**
+- 📫 How to reach me **nimanthacharuka7@gmail.com**
 
 - ⚡ Fun fact **I'm on a mission to visit every continent, and I always bring my laptop for coding on the go**
 
